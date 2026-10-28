@@ -1,0 +1,11 @@
+kpi,value
+Total Orders,11775.0
+Delivered Orders,10474.0
+Total Customers,7603.0
+Realised Revenue (INR),23364092.88
+Average Order Value (INR),2230.68
+Revenue per Customer (INR),3314.06
+Repeat Purchase Rate (%),33.06
+Cancellation Rate (%),5.06
+Return Rate (%),5.99
+Avg Discount (%),8.87
